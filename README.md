@@ -7,6 +7,7 @@ This is a mobile app designed to solve the "fragmented data" problem in Chicago'
 As a musician and supporter of local live music, I got tired of the "search friction" involved in finding where my peers were playing or where the best sessions were on any given night. My background in **Psychology** makes me hyper-aware of how "choice overload" and "decision fatigue" can stop people from going out. I wanted to build something that removed the stress of the search and the ambiguity of where to go to see high quality musicians performing in accessible venues. I also to give exposure to musicians who are out there working, and support for the venues who invest in them.
 
 ## Tech Stack
+
 **Mobile Frontend:** React Native & Expo
 **Backend:** Node.js & Express.js
 **Development Tools:** Expo for development and bundling
@@ -14,11 +15,12 @@ As a musician and supporter of local live music, I got tired of the "search fric
 **Mapping:** Google Maps API Integration (using dynamic event cards and custom markers)
 
 ## Project Status: Active Development (MVP)
-**[x] Done**: Python scraper successfully extracting WDCB and venue data.
-**[x] Done**: Google Maps API integration with custom event cards.
-**[x] Done**: Building the Node.js middleware to serve live JSON data to the mobile app.
-**[ ] Up Next**: User authentication so musicians can "Check-in" to sessions.
-**[ ] Up Next**: Personal calendar integration, push notifications, user-saved venues
+
+[x] **Done**: Python scraper successfully extracting WDCB and venue data.
+[x] **Done**: Google Maps API integration with custom event cards.
+[x] **Done**: Building the Node.js middleware to serve live JSON data to the mobile app.
+[ ] **Up Next**: User authentication so musicians can "Check-in" to sessions.
+[ ] **Up Next**: Personal calendar integration, push notifications, user-saved venues
 
 ---
 *Developed by Patrick Ruckman | Software Developer, Music Program Director, Guitarist*
