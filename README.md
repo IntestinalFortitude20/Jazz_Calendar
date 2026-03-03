@@ -8,19 +8,19 @@ As a musician and supporter of local live music, I got tired of the "search fric
 
 ## Tech Stack
 
-**Mobile Frontend:** React Native & Expo
-**Backend:** Node.js & Express.js
-**Development Tools:** Expo for development and bundling
-**Data Handling:** Python with Beautiful Soup (for HTML parsing of WDCB jazz calendars)
-**Mapping:** Google Maps API Integration (using dynamic event cards and custom markers)
+**Mobile Frontend:** React Native & Expo  
+**Backend:** Node.js & Express.js  
+**Development Tools:** Expo for development and bundling  
+**Data Handling:** Python with Beautiful Soup (for HTML parsing of WDCB jazz calendars)  
+**Mapping:** Google Maps API Integration (using dynamic event cards and custom markers)  
 
 ## Project Status: Active Development (MVP)
 
-[x] **Done**: Python scraper successfully extracting WDCB and venue data.
-[x] **Done**: Google Maps API integration with custom event cards.
-[x] **Done**: Building the Node.js middleware to serve live JSON data to the mobile app.
-[ ] **Up Next**: User authentication so musicians can "Check-in" to sessions.
-[ ] **Up Next**: Personal calendar integration, push notifications, user-saved venues
+[x] **Done**: Python scraper successfully extracting WDCB and venue data.  
+[x] **Done**: Google Maps API integration with custom event cards.  
+[x] **Done**: Building the Node.js middleware to serve live JSON data to the mobile app.  
+[ ] **Up Next**: User authentication so musicians can "Check-in" to sessions.  
+[ ] **Up Next**: Personal calendar integration, push notifications, user-saved venues  
 
 ---
 *Developed by Patrick Ruckman | Software Developer, Music Program Director, Guitarist*
